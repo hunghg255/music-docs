@@ -25,7 +25,7 @@ const helps = {
       description: 'Removes absent user’s songs from the Queue.',
     },
     {
-      command: 'loop, repeat, kimochi',
+      command: 'loop, repeat',
       description:
         'Loop song or loop queue (0: disbale, 1: Repeat a song, 2: Reapeat queue)',
     },
